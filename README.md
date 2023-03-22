@@ -14,7 +14,7 @@
 
 ## Description
 
-_A Calculator carrying out the basic arithmetic operations. This application only uses business logic. The User Interface is to be worked upon on a later date._
+_A Calculator carrying out the basic arithmetic operations. The application carries out the operations one after the other in the order: addition, division, subtraction and multiplication.This application only uses business logic. The User Interface is to be worked upon on a later date._
 
 ## Setup/Installation Requirements
 * _Clone this repository to your desktop_
